@@ -21,11 +21,5 @@ To use the project it is necessary to install NODE +v18.9.0
 
 ## Preview
 
-<img src="assests/preview.png" alt="preview" align="center">
-![alt text](https://github.com/Jortizuwu/taller1grafos/blob/main/preview/pre1.png)
-![preview 1]([http://url/to/img.png](https://github.com/Jortizuwu/taller1grafos/blob/main/preview/pre2.png))
-![preview 1]([http://url/to/img.png](https://github.com/Jortizuwu/taller1grafos/blob/main/preview/pre3.png))
-![preview 1]([http://url/to/img.png](https://github.com/Jortizuwu/taller1grafos/blob/main/preview/pre4.png))
-![preview 1]([http://url/to/img.png](https://github.com/Jortizuwu/taller1grafos/blob/main/preview/pre5.png))
-![preview 1]([http://url/to/img.png](https://github.com/Jortizuwu/taller1grafos/blob/main/preview/pre6.png))
+<img src="preview/pre1.png" alt="preview" align="center">
 
