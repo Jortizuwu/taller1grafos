@@ -22,4 +22,9 @@ To use the project it is necessary to install NODE +v18.9.0
 ## Preview
 
 <img src="preview/pre1.png" alt="preview" align="center">
+<img src="preview/pre2.png" alt="preview" align="center">
+<img src="preview/pre3.png" alt="preview" align="center">
+<img src="preview/pre4.png" alt="preview" align="center">
+<img src="preview/pre5.png" alt="preview" align="center">
+<img src="preview/pre6.png" alt="preview" align="center">
 
