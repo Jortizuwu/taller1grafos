@@ -5,7 +5,7 @@
 
 ### Pre-requirements 📋
 
-To use the project it is necessary to install NODE +v18.9.0
+To use the project it is necessary to install Nodejs +v18.9.0
 
 ## use
 
