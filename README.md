@@ -28,3 +28,8 @@ To use the project it is necessary to install Nodejs +v18.9.0
 <img src="preview/pre5.png" alt="preview" align="center">
 <img src="preview/pre6.png" alt="preview" align="center">
 
+## DIAGRAMA DFD
+
+<img src="diagrama%20de%20flujo%20de%20algoritmo.png" alt="preview" align="center">
+
+
