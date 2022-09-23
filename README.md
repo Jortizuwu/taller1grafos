@@ -13,7 +13,7 @@ To use the project it is necessary to install NODE +v18.9.0
 > 2. second run `yarn start` on root of document
 
 ## Built with  🛠️
-- [NODE]
+- [Nodejs]
 
 ## Author  ✒️
 - **Jose Miguel Ortiz Hernandez**
